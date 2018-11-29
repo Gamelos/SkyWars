@@ -1,0 +1,12 @@
+name: Skywars
+author: Gamelos
+version: 1.0
+
+main: de.gamelos.skywars.Main
+
+commands:
+  sw:
+  promote:
+  stats:
+  start:
+  forcemap:
